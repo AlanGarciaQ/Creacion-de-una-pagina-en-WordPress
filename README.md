@@ -9,4 +9,4 @@ Creación de pagina web con recursos de Azure
 
 **Pasos**
 Se inicia sesión en la página de Azure
-![Imagen 1](imagenes\Imagen1.png)
+![Imagen 1](\imagenes\Imagen1.png)
