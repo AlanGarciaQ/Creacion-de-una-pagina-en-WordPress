@@ -22,7 +22,7 @@ En la barra de búsqueda de Marketplace se busca WordPress y se da enter
 
 Se selecciona la primer opción que se muestra 
 
-![](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Imagen4.jpg)
+![](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Imagen4__LI.jpg)
 
 Le damos clic en el boton crear 
 
