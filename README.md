@@ -1,5 +1,5 @@
 # Creación de una página en WordPress 
-Objetivo: Creación de una página web sencilla por medio del recurso de Azure de WordPress
+**Objetivo:** Creación de una página web sencilla por medio del recurso de Azure de WordPress
 
 ![](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Wordpress_logo.png)
 
@@ -8,6 +8,7 @@ Objetivo: Creación de una página web sencilla por medio del recurso de Azure d
 - Equipo de cómputo con sistema operativo: Windows, Linux o MacOs
 
 **Pasos**
+
 Se inicia sesión en la página de Azure
 ![Imagen 1](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Imagen1.png)
 
