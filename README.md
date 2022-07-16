@@ -7,9 +7,9 @@
 - Cuenta de Azure con una suscripción activa
 - Equipo de cómputo con sistema operativo: Windows, Linux o MacOs
 
-**Pasos**
+**Pasos**     
 Se inicia sesión en la página de Azure
- ![Imagen 1](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Imagen1.png)
+![Imagen 1](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Imagen1.png)
 
 Se busca la palabra “Marketplace” en la barra de búsqueda y se da enter
 ![](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Imagen2.jpg)
@@ -21,6 +21,7 @@ Se selecciona la primer opción que se muestra
 ![](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Imagen4__LI.jpg)
 
 Le damos clic en el boton crear 
+
 ![](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Imagen5_.png)
 
 En el apartado de grupo de recursos, le damos clic en el botón de crear nuevo, en la mini ventana que se abre en el apartado de nombre, escribimos el nombre que queramos que tenga nuestro grupo de recursos y le damos aceptar.
@@ -42,6 +43,7 @@ Una vez que se terminaron de crear las implementación se nos muestra la siguien
 ![](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Imagen11.png)
 
 En esta ventana se nos muestra información acerca del recurso que se acaba de crear. Para ver nuestra página web, basta con darle clic en el enlace de la URL. 
+
 ![](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Imagen12.png)
 
 Se nos mostrara nuestra página, ahí debemos de configurar el idioma que preferimos para ella y le damos en continuar. 
@@ -51,6 +53,7 @@ En la siguiente ventana que se nos aparece nos mostrara un menú de opciones par
 ![](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Imagen14.png)
 
 Se nos abrirá la siguiente ventana en donde se nos indicará que se logró la instalación correcta de WordPress. Le damos En acceder para ingresar. 
+
 ![](https://github.com/AlanGarciaQ/Practica-1-WordPress/blob/main/imagenes/Imagen15.png)
 
 Si en el navegador borramos parte de la URL y lo dejamos hasta .net nos mandara al sitio web.
